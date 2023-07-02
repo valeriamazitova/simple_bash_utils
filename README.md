@@ -12,3 +12,5 @@ Description:
 - To see for yourself that theprogram works like the original cat command, you can type in the terminal './s21_cat test_1_cat.txt'. It is a test file, you can use your own text file, like you would normally do as follows 'cat test.txt' (for example). Just change 'cat' to './s21_cat'.
 
 Same thing as for grep command in the src/grep directory.
+
+P.S. every thing on this project is implemented on macOS Big Sur 11.6.6 intel core i5. Test results may differ with the accordance to the macOS version.

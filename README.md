@@ -13,4 +13,4 @@ Description:
 
 Same thing as for grep command in the src/grep directory.
 
-P.S. every thing on this project is implemented on macOS Big Sur 11.6.6 intel core i5. Test results may differ with the accordance to the macOS version.
+P.S. this project is implemented on macOS Big Sur 11.6.6 intel core i5. Test results may differ with the accordance to the macOS version.
